@@ -1,5 +1,5 @@
 
-[![MasterHead](https://static.wixstatic.com/media/07fb74_27feaf786318444d8318e6517496bef1~mv2.gif)
+[![MasterHead]([https://static.wixstatic.com/media/07fb74_27feaf786318444d8318e6517496bef1~mv2.gif](https://www.freepik.com/free-psd/abstract-digital-microchip-futuristic-technology_408653434.htm#fromView=search&page=1&position=14&uuid=c072a928-456d-4739-9a63-7ae4436282f8&query=elektronics))
 
 <h1 align="center">Hi 👋, I'm Ömer Demir</h1>
 <h3 align="center">Embedded Software Developer</h3>
